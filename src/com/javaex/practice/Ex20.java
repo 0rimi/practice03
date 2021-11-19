@@ -34,7 +34,7 @@ public class Ex20 {
 						}
 						else if(ox.equals("n")) {
 							continue;
-						}
+						}		
 				}
 			}
 			System.out.println("==================================");
